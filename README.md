@@ -13,11 +13,8 @@ Welcome to my GitHub profile! I'm a DevOps enthusiast passionate about automatio
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="40" height="40"/> <img src="https://www.jenkins.io/images/logos/jenkins/jenkins.svg" width="40" height="40"/> <img src="https://github.githubassets.com/images/modules/site/features/actions-icon-actions.svg" width="40" height="40"/> <img src="https://argo-cd.readthedocs.io/en/stable/assets/logo.png" width="40" height="40"/>
 
 **Cloud Platforms**  
-🔹 AWS (EC2, S3, EKS, IAM)  
-🔹 Azure | GCP (basic knowledge)
-
-**Monitoring & Observability**  
-🔹 Prometheus | Grafana 
+🔹 AWS (EC2, S3, IAM)  
+🔹 Azure (basic knowledge)
 
 ---
 
@@ -30,7 +27,7 @@ Welcome to my GitHub profile! I'm a DevOps enthusiast passionate about automatio
 
 ## 📫 Contact Me
 
-- 🌐 [LinkedIn](https://www.linkedin.com/in/your-linkedin/)
+- 🌐 Linkedin: [Khang Kieu](linkedin.com/in/khang-kieu-05b3a2216)
 - ✉️ Email: kieukhang1805@gmail.com
 
 ---
