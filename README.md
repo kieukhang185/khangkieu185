@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm a DevOps enthusiast passionate about automatio
 ## 🧰 DevOps Toolkit
 
 **Languages & Scripting**  
-🔹 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white) | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) | YAML | PowerShell
+🔹 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white) | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>  | YAML | PowerShell
 
 **DevOps & Automation**  
 🔹 Docker | Kubernetes | Helm  
