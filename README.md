@@ -25,8 +25,8 @@ Welcome to my GitHub profile! I'm a DevOps enthusiast passionate about automatio
 
 ## 📈 GitHub Stats
 
-![Khang's GitHub stats](https://github-readme-stats.vercel.app/api?username=khangkieu185&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khangkieu185&layout=compact)
+![Khang's GitHub stats](https://github-readme-stats.vercel.app/api?username=kieukhang185&show_icons=true&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kieukhang185&layout=compact)
 
 ---
 
