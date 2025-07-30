@@ -25,13 +25,6 @@ Welcome to my GitHub profile! I'm a DevOps enthusiast passionate about automatio
 
 ---
 
-## 📫 Contact Me
-
-- 🌐 Linkedin: [Khang Kieu](linkedin.com/in/khang-kieu-05b3a2216)
-- ✉️ Email: kieukhang1805@gmail.com
-
----
-
 ## ⚡ Fun Facts
 
 - 💡 I automate *everything* – from builds to deployments
